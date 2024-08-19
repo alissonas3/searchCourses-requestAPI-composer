@@ -1,0 +1,16 @@
+{
+    "name": "alisson/search-courses",
+    "description": "Search all courses from Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alisson",
+            "email": "alisson.asilva3@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/css-selector": "^7.1",
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/dom-crawler": "^7.1"
+    }
+}
